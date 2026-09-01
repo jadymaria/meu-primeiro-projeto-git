@@ -1,0 +1,5 @@
+Por que usar?
+Arquivos com senhas e dados sensíveis
+Arquivos temporários do sistema
+Configurações locais específicas de cada desenvolvedor
+Arquivos gerados automaticamente
