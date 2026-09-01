@@ -1,0 +1,15 @@
+# Sobre Mim
+
+## Informações Pessoais
+- **Nome:** Jady Maria
+- **Idade:** [17 anos]
+- **Cidade:** [Duque de Caxias]
+
+## Hobbies
+- [montar legos, ver corrida de fórmula 1, jogar videogame e ver futebol]
+
+## Objetivos Profissionais
+- [terminar meus estudos na escola, estudar para passar em concurso]
+
+## Por que estou aprendendo Git?
+[Estou aprendendo Git porque ele ajuda a organizar e controlar as mudanças nos projetos. Na Segurança Cibernética, é importante para trabalhar em equipe, manter os códigos seguros e acompanhar alterações, sendo uma ferramenta muito usada na área de tecnologia.]
